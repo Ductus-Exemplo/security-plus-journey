@@ -55,6 +55,10 @@ Original examples, study tips, and resources for people preparing for cybersecur
 This repository is an ongoing personal learning project.
 
 
+## Explore My Learning Resources
+
+- [Security+ Study Notes](notes/README.md)
+
 ## My Security+ Study Notes
 
 I'm documenting the cybersecurity concepts I learned
