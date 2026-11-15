@@ -5,7 +5,7 @@ title: My Security+ Journey
 
 # My Cybersecurity Journey
 
-### CompTIA Security+ SY0-701 | Passed with 797
+### CompTIA Security+ SY0-701 | Passed
 
 Welcome to my cybersecurity learning portfolio!
 
