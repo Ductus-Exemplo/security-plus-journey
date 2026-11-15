@@ -54,4 +54,13 @@ Original examples, study tips, and resources for people preparing for cybersecur
 
 This repository is an ongoing personal learning project.
 
+
+## My Security+ Study Notes
+
+I'm documenting the cybersecurity concepts I learned
+while preparing for CompTIA Security+.
+
+- [Understanding PKI and Digital Certificates](notes/pki-explained.md)
+
+
 *This is an independent educational resource, not affiliated with or endorsed by CompTIA. It does not contain actual certification exam questions.*
