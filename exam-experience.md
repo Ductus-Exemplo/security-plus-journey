@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # My CompTIA Security+ SY0-701 Exam Experience
 
 **Certification:** CompTIA Security+ SY0-701  
