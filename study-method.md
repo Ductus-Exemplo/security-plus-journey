@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # How I Studied for CompTIA Security+ SY0-701
 
 **My result: Passed with a score of 797 — November 2026**
