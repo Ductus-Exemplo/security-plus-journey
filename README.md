@@ -4,7 +4,7 @@
 
 Welcome to my cybersecurity learning portfolio!
 
-I recently passed the **CompTIA Security+ SY0-701 certification**.
+I passed the **CompTIA Security+ SY0-701 certification**.
 
 I created this repository to document my cybersecurity learning journey, share useful study resources, and demonstrate the practical skills I continue to develop.
 
