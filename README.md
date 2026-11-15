@@ -86,4 +86,19 @@ for targeted review.
 - [Explore my Security+ study resources](resources.md)
 - [Read how I prepared for Security+](study-method.md)
 
+
+## My Security+ Journey
+
+In November 2026, I passed CompTIA Security+ SY0-701
+with a score of 797.
+
+I'm sharing my preparation method, the resources I
+used, and lessons from my certification journey.
+
+- [My Study Method](study-method.md)
+- [Study Resources](resources.md)
+- [My Exam Experience](exam-experience.md)
+
+
+
 *This is an independent educational resource, not affiliated with or endorsed by CompTIA. It does not contain actual certification exam questions.*
