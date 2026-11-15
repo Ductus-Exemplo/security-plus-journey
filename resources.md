@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # CompTIA Security+ SY0-701 — Study Resources
 
 ## Introduction
