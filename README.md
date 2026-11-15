@@ -59,6 +59,16 @@ This repository is an ongoing personal learning project.
 
 - [Security+ Study Notes](notes/README.md)
 
+## How I Prepared for Security+
+
+I passed CompTIA Security+ SY0-701 with a score of 797.
+
+My preparation focused on domain-by-domain learning,
+focused practice questions, targeted review, and
+full-length mixed practice exams.
+
+[Read my complete Security+ study journey](study-method.md)
+
 ## My Security+ Study Notes
 
 I'm documenting the cybersecurity concepts I learned
