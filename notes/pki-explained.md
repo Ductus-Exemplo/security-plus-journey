@@ -41,3 +41,6 @@ The Certification Authority vs the Registration Authority
 A certificate is not automatically trustworthy simply because it
 exists. The browser must validate its identity, validity
 and chain of trust.
+
+Important inforgraph:
+
