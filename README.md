@@ -77,4 +77,13 @@ while preparing for CompTIA Security+.
 - [Understanding PKI and Digital Certificates](notes/pki-explained.md)
 
 
+## Study Resources
+
+I used 1 main Security+ video course, domain-specific
+practice questions, and Professor Messer's videos
+for targeted review.
+
+- [Explore my Security+ study resources](resources.md)
+- [Read how I prepared for Security+](study-method.md)
+
 *This is an independent educational resource, not affiliated with or endorsed by CompTIA. It does not contain actual certification exam questions.*
